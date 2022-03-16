@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ofU9CIM8pqvAKlvazJTHQ9fXIAXgklhCirVZ01E0HHcdgnMaV2WG1Bi+ZJh4MsF9zhq2ZYXLz8DO8Tt7IKybUA==",
+  "dgSpecHash": "J1+q7TPuqM9GzJsqlmq2/DMJ5sPuiaX1P4rQ7mohDIyyrNKIBSSyxT4ZiaPWnuYo4AxzSXd9SQBjPgopIO19sA==",
   "success": true,
-  "projectFilePath": "C:\\JP\\MyProjects\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI.csproj",
+  "projectFilePath": "C:\\JP\\GIT\\Danske-Tax-Calculation\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jprak\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jprak\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\JP\\MyProjects\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI.csproj": {}
+    "C:\\JP\\GIT\\Danske-Tax-Calculation\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI.csproj": {}
   },
   "projects": {
-    "C:\\JP\\MyProjects\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI.csproj": {
+    "C:\\JP\\GIT\\Danske-Tax-Calculation\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\JP\\MyProjects\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI.csproj",
+        "projectUniqueName": "C:\\JP\\GIT\\Danske-Tax-Calculation\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI.csproj",
         "projectName": "Danske_TaxCalucationAPI",
-        "projectPath": "C:\\JP\\MyProjects\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI.csproj",
+        "projectPath": "C:\\JP\\GIT\\Danske-Tax-Calculation\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI.csproj",
         "packagesPath": "C:\\Users\\jprak\\.nuget\\packages\\",
-        "outputPath": "C:\\JP\\MyProjects\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\obj\\",
+        "outputPath": "C:\\JP\\GIT\\Danske-Tax-Calculation\\Danske_TaxCalucationAPI\\Danske_TaxCalucationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jprak\\AppData\\Roaming\\NuGet\\NuGet.Config",
